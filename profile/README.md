@@ -5,7 +5,8 @@ computational biology/bioinformatics to Elixir. Or rather, to bring Elixir to
 them!
 
 I hope to build out several example tools, as well as integrations with other
-systems that can help people leverage the power of Elixir to do biology!
+systems that can help people leverage the power of Elixir to build amazing 
+tools for biology!
 
 ## Why Elixir?
 
